@@ -1,6 +1,6 @@
 <img height="100px" src="https://wordcounter.net/images/word-counter.jpg">
 
-# Wordcount
+# WordCount
 
 In this assignment you will use your knowledge of Python basic strings, arithmetic, file reading, and dictionaries to create a command line utility to count the words in the text files in the `books` directory &mdash; ([small.txt](./books/small.txt) and [alice.txt](./books/alice.txt)).
 
